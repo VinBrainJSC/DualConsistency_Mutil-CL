@@ -47,7 +47,7 @@ dataloaders/
 
 3. Training script
 ```
-python code_for_BMVC/train_2D_CPS_concat_auxiliary_MCL_ICT_unnet_ds_verifi_kfold.py
+python code_for_BMVC/train_2D_CPS_concat_auxiliary_MCL_ICT_unnet_urpc_kfold.py
 ```
 4. Validation Scripts
 ```
