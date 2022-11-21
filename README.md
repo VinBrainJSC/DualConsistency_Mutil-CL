@@ -62,4 +62,10 @@ python test_IRCAD_2D_c.py
 ## Citation
 If our work brings some insights to you, please cite our paper as:
 ```
+@inproceedings{Nguyen_2022_BMVC,
+author    = {Nam Phuong Nguyen and Tuan Van Vo and Soan T. M.  Duong and Chanh D Tr Nguyen and Trung Bui and QUOC HUNG TRUONG},
+title     = {Dual consistency assisted multi-confident learning for the hepatic vessel segmentation using noisy labels},
+booktitle = {33rd British Machine Vision Conference 2022, {BMVC} 2022, London, UK, November 21-24, 2022},
+year      = {2022}
+}
 ```   
